@@ -1,0 +1,8 @@
+2014-08-05	0.5.0	Kai 'wusel' Siering <wusel+src@uu.org>
+
+	* Based off gluon 2014.3
+	* Reworked setup/config mode to suit FFGT
+	  - LAN is supposed to be on DHCP client mode
+	  - Node send signals to FFGT servers
+	  - Request to http://setup.guetersloh.freifunk.net should redirect to local setup interface
+	  - Geolocation is done by FFGT servers on behalf of node, using standard techniques
