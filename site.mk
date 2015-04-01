@@ -3,7 +3,8 @@ GLUON_SITE_PACKAGES := \
 	gluon-alfred \
 	gluon-announced \
 	gluon-autoupdater \
-        ffgt-geolocate \
+	ffgt-geolocate \
+	gluon-luci-geolocate \
 	gluon-config-mode-hostname \
 	gluon-config-mode-autoupdater \
 	gluon-config-mode-mesh-vpn \
