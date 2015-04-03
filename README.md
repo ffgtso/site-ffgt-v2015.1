@@ -12,3 +12,4 @@ Please see [the official Gluon repository](https://github.com/freifunk-gluon/glu
 
 - v0.5.x (based off Gluon v2014.3/v2014.3.1)
 - v0.6.x (This one, based off Gluon v2014.4)
+- v0.7.x (Future; based of gluon-master, the future v2015.1)
