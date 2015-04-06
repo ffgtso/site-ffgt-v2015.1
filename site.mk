@@ -5,10 +5,10 @@ GLUON_SITE_PACKAGES := \
 	gluon-autoupdater \
 	ffgt-geolocate \
 	gluon-luci-geolocate \
-	gluon-config-mode-hostname \
-	gluon-config-mode-autoupdater \
-	gluon-config-mode-mesh-vpn \
-	gluon-config-mode-geo-location \
+	gluon-config-mode-hostname-ffgt \
+	gluon-config-mode-autoupdater-ffgt \
+	gluon-config-mode-mesh-vpn-ffgt \
+	gluon-config-mode-geo-location-ffgt \
 	gluon-config-mode-contact-info \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
@@ -38,7 +38,7 @@ GLUON_SITE_PACKAGES := \
 #         comgt kmod-usb-serial kmod-usb2 kmod-usb-uhci \
 #         kmod-usb-ohci usb-modeswitch \
 
-DEFAULT_GLUON_RELEASE := 0.6.0+2-gut
+DEFAULT_GLUON_RELEASE := 0.6.0+3-gut
 
 #DEFAULT_GLUON_RELEASE := 0.5.4
 
