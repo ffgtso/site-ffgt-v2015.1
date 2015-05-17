@@ -3,13 +3,18 @@ GLUON_SITE_PACKAGES := \
 	gluon-alfred \
 	gluon-announced \
 	gluon-autoupdater \
-	ffgt-geolocate \
+#	ffgt-geolocate \
 	gluon-luci-geolocate \
-	gluon-config-mode-hostname-ffgt \
-	gluon-config-mode-autoupdater-ffgt \
-	gluon-config-mode-mesh-vpn-ffgt \
-	gluon-config-mode-geo-location-ffgt \
+#	gluon-config-mode-hostname-ffgt \
+#	gluon-config-mode-autoupdater-ffgt \
+#	gluon-config-mode-mesh-vpn-ffgt \
+#	gluon-config-mode-geo-location-ffgt \
+	gluon-config-mode-autoupdater \
 	gluon-config-mode-contact-info \
+	gluon-config-mode-core \
+	gluon-config-mode-geo-location \
+	gluon-config-mode-hostname \
+	gluon-config-mode-mesh-vpn \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
 	gluon-luci-admin \
