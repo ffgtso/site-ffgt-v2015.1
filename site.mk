@@ -3,8 +3,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-alfred \
 	gluon-announced \
 	gluon-autoupdater \
-	ffgt-geolocate \
-	gluon-luci-geolocate \
 	gluon-config-mode-hostname-ffgt \
 	gluon-config-mode-autoupdater-ffgt \
 	gluon-config-mode-mesh-vpn-ffgt \
@@ -16,14 +14,18 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-admin \
 	gluon-luci-autoupdater \
 	gluon-luci-portconfig \
+	gluon-luci-wifi-config \
 	gluon-next-node \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
+	gluon-setup-mode \
 	gluon-status-page \
-	gluon-luci-private-wifi \
-	iwinfo \
+	haveged \
 	iptables \
-	haveged
+	iwinfo \
+	ffgt-geolocate \
+	gluon-luci-geolocate \
+	gluon-luci-private-wifi
 
 # For unattended install:
 #
