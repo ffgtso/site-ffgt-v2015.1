@@ -3,6 +3,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-alfred \
 	gluon-announced \
 	gluon-autoupdater \
+	gluon-config-mode-site-select-ffgt \
 	gluon-config-mode-hostname-ffgt \
 	gluon-config-mode-autoupdater-ffgt \
 	gluon-config-mode-mesh-vpn-ffgt \
