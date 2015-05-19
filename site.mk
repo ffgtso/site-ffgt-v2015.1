@@ -42,7 +42,7 @@ GLUON_SITE_PACKAGES := \
 #         comgt kmod-usb-serial kmod-usb2 kmod-usb-uhci \
 #         kmod-usb-ohci usb-modeswitch \
 
-DEFAULT_GLUON_RELEASE := 0.6.0+5-gut
+DEFAULT_GLUON_RELEASE := 0.7.0+0
 
 #DEFAULT_GLUON_RELEASE := 0.5.4
 
@@ -53,4 +53,4 @@ GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
 GLUON_PRIORITY ?= 0
 
 # Languages to include
-GLUON_LANGS ?= en de
+GLUON_LANGS ?= de en
