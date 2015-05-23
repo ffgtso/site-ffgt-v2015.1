@@ -8,6 +8,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-config-mode-autoupdater-ffgt \
 	gluon-config-mode-mesh-vpn-ffgt \
 	gluon-config-mode-contact-info \
+	gluon-config-mode-geo-location-ffgt \
 	gluon-config-mode-core \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
@@ -24,7 +25,6 @@ GLUON_SITE_PACKAGES := \
 	iptables \
 	iwinfo \
 	ffgt-geolocate \
-	gluon-luci-geolocate \
 	gluon-luci-private-wifi
 
 # For unattended install:
