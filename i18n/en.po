@@ -29,7 +29,7 @@ msgstr ""
 
 msgid "gluon-config-mode:pubkey"
 msgstr ""
-"This ist the public key of your Freifunk node. Please use "
+"This is the public key of your Freifunk node. Please use "
 "<a href=\"http://setup.guetersloh.freifunk.net/nodereg.php?key=<%=pubkey%>&hostname=<%=hostname%>&mac=<%=sysconfig.primary_mac%>&coords=<%=location%>\" target=\"_blank\">the pre-filled template</a> "
 "to register your node."
 
