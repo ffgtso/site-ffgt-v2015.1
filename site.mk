@@ -8,6 +8,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-config-mode-autoupdater-ffgt \
 	gluon-config-mode-contact-info \
 	gluon-config-mode-geo-location-ffgt \
+	gluon-config-mode-mesh-vpn-ffgt \
 	gluon-config-mode-core \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
@@ -15,7 +16,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-autoupdater \
 	gluon-luci-portconfig \
 	gluon-luci-wifi-config \
-	gluon-luci-mesh-vpn-fastd \
 	gluon-next-node \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
@@ -27,7 +27,7 @@ GLUON_SITE_PACKAGES := \
 	ffgt-geolocate \
 	gluon-luci-private-wifi
 
-#	gluon-config-mode-mesh-vpn-ffgt \
+#	gluon-luci-mesh-vpn-fastd \
 
 # For unattended install:
 #
