@@ -6,7 +6,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-config-mode-site-select-ffgt \
 	gluon-config-mode-hostname-ffgt \
 	gluon-config-mode-autoupdater-ffgt \
-	gluon-config-mode-mesh-vpn-ffgt \
 	gluon-config-mode-contact-info \
 	gluon-config-mode-geo-location-ffgt \
 	gluon-config-mode-core \
@@ -27,6 +26,8 @@ GLUON_SITE_PACKAGES := \
 	iwinfo \
 	ffgt-geolocate \
 	gluon-luci-private-wifi
+
+#	gluon-config-mode-mesh-vpn-ffgt \
 
 # For unattended install:
 #
