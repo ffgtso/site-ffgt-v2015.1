@@ -43,9 +43,7 @@ GLUON_SITE_PACKAGES := \
 #         comgt kmod-usb-serial kmod-usb2 kmod-usb-uhci \
 #         kmod-usb-ohci usb-modeswitch \
 
-DEFAULT_GLUON_RELEASE := 0.7.0+0
-
-#DEFAULT_GLUON_RELEASE := 0.5.4
+DEFAULT_GLUON_RELEASE := 0.7.4~0
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
