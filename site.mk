@@ -2,6 +2,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-mesh-batman-adv-14 \
 	gluon-alfred \
 	gluon-announced \
+	gluon-announce-ffgt \
 	gluon-autoupdater \
 	gluon-config-mode-site-select-ffgt \
 	gluon-config-mode-hostname-ffgt \
