@@ -1,3 +1,9 @@
+#### Obsoleted ...
+
+The site.conf in this repository is overwritten via gluon-config-mode-site-select-ffgt module (ffgt_packages-v2015.1 repo).
+
+site.mk file is still being used though (but x86-images are build differently, there's a patched Makefile in place that adds stuffe needed for the FSC Futros).
+
 #### How to build the Freifunk Guetersloh Firmware
 
 (to be written)
