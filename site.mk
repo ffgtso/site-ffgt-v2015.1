@@ -10,7 +10,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-config-mode-contact-info \
 	gluon-config-mode-geo-location-ffgt \
 	gluon-config-mode-mesh-vpn-ffgt \
-#	gluon-config-mode-tunneldigger \
 	gluon-config-mode-core \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
@@ -21,7 +20,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-private-wifi \
 	gluon-next-node \
 	gluon-mesh-vpn-fastd \
-#	gluon-mesh-vpn-tunneldigger \
 	gluon-radvd \
 	gluon-setup-mode \
 	gluon-status-page \
