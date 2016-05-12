@@ -4,6 +4,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-announced \
 	gluon-announce-ffgt \
 	gluon-autoupdater \
+	ffho-autoupdater-wifi-fallback \
 	gluon-config-mode-site-select-ffgt \
 	gluon-config-mode-hostname-ffgt \
 	gluon-config-mode-autoupdater-ffgt \
@@ -22,12 +23,13 @@ GLUON_SITE_PACKAGES := \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
 	gluon-setup-mode \
-	gluon-status-page \
+	ffho-status-page \
 	gluon-migrate-vpn \
 	haveged \
 	iptables \
 	iwinfo \
 	fastd-traffic-status \
+	ffgt-banner \
 	ffgt-geolocate
 
 
