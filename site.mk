@@ -27,8 +27,8 @@ GLUON_SITE_PACKAGES := \
 	haveged \
 	iptables \
 	iwinfo \
-	ffgt-geolocate \
-	fastd-traffic-status
+	fastd-traffic-status \
+	ffgt-geolocate
 
 
 # For unattended install:
