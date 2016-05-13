@@ -4,7 +4,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-announced \
 	gluon-announce-ffgt \
 	gluon-autoupdater \
-	ffho-autoupdater-wifi-fallback \
 	gluon-config-mode-site-select-ffgt \
 	gluon-config-mode-hostname-ffgt \
 	gluon-config-mode-autoupdater-ffgt \
