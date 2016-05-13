@@ -29,6 +29,7 @@ GLUON_SITE_PACKAGES := \
 	iwinfo \
 	fastd-traffic-status \
 	ffgt-banner \
+	gluon-ssid-changer \
 	ffgt-geolocate
 
 
