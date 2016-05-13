@@ -22,7 +22,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
 	gluon-setup-mode \
-	ffho-status-page \
+	gluon-status-page \
 	gluon-migrate-vpn \
 	haveged \
 	iptables \
