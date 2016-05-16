@@ -29,9 +29,10 @@ GLUON_SITE_PACKAGES := \
 	iwinfo \
 	fastd-traffic-status \
 	ffgt-banner \
-	gluon-ssid-changer \
+	ffho-autoupdater-wifi-fallback \
 	ffgt-geolocate
 
+#	gluon-ssid-changer \
 
 # For unattended install:
 #
