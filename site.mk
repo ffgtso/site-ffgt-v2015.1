@@ -25,14 +25,15 @@ GLUON_SITE_PACKAGES := \
 	gluon-setup-mode \
 	gluon-status-page \
 	gluon-migrate-vpn \
+	gluon-ssid-changer \
 	haveged \
 	iptables \
 	iwinfo \
 	fastd-traffic-status \
 	ffgt-banner \
-	ffho-autoupdater-wifi-fallback \
 	ffgt-geolocate
 
+#	ffho-autoupdater-wifi-fallback \
 #	gluon-ssid-changer \
 
 # For unattended install:
