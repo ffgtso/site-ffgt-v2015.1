@@ -23,7 +23,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
 	gluon-setup-mode \
-	gluon-status-page \
+	gluon-new-status-page \
 	gluon-migrate-vpn \
 	gluon-ssid-changer \
 	haveged \
