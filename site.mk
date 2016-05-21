@@ -24,7 +24,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-radvd \
 	gluon-setup-mode \
 	gluon-new-status-page \
-	gluon-migrate-vpn \
 	gluon-ssid-changer \
 	haveged \
 	iptables \
@@ -33,6 +32,7 @@ GLUON_SITE_PACKAGES := \
 	ffgt-banner \
 	ffgt-geolocate
 
+#	gluon-migrate-vpn \
 #	ffho-autoupdater-wifi-fallback \
 #	gluon-ssid-changer \
 
