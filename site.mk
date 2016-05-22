@@ -30,6 +30,7 @@ GLUON_SITE_PACKAGES := \
 	iwinfo \
 	fastd-traffic-status \
 	ffgt-banner \
+	gluon-wificheck \
 	ffgt-geolocate
 
 #	gluon-migrate-vpn \
