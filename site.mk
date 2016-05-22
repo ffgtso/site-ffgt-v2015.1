@@ -25,6 +25,8 @@ GLUON_SITE_PACKAGES := \
 	gluon-setup-mode \
 	gluon-new-status-page \
 	gluon-ssid-changer \
+	ffho-node-tuning \
+	ffho-wifi-blackout-workaround \
 	haveged \
 	iptables \
 	iwinfo \
