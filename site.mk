@@ -33,7 +33,6 @@ GLUON_SITE_PACKAGES := \
 	fastd-traffic-status \
 	ffgt-banner \
 	gluon-wificheck \
-	mtr \
 	ffgt-geolocate \
 	gluon-airtime
 
