@@ -34,6 +34,7 @@ GLUON_SITE_PACKAGES := \
 	ffgt-banner \
 	gluon-wificheck \
 	mtr \
+	ffho-autoupdater-wifi-fallback \
 	ffgt-geolocate
 
 #	gluon-migrate-vpn \
