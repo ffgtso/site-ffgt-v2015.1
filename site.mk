@@ -36,6 +36,8 @@ GLUON_SITE_PACKAGES := \
 	ffgt-geolocate \
 	gluon-airtime
 
+#	gluon-luci-site-select \
+
 #	gluon-migrate-vpn \
 #	ffho-autoupdater-wifi-fallback \
 #	gluon-ssid-changer \
