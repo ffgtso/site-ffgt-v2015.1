@@ -5,6 +5,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-announce-ffgt \
 	gluon-autoupdater \
 	gluon-config-mode-site-select-ffgt \
+	gluon-luci-site-select \
 	gluon-config-mode-hostname-ffgt \
 	gluon-config-mode-autoupdater-ffgt \
 	gluon-config-mode-contact-info \
@@ -36,8 +37,7 @@ GLUON_SITE_PACKAGES := \
 	ffgt-geolocate \
 	gluon-airtime
 
-#	gluon-luci-site-select \
-
+#
 #	gluon-migrate-vpn \
 #	ffho-autoupdater-wifi-fallback \
 #	gluon-ssid-changer \
