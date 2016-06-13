@@ -8,7 +8,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-site-select \
 	gluon-config-mode-hostname-ffgt \
 	gluon-config-mode-autoupdater-ffgt \
-	gluon-config-mode-contact-info \
+	gluon-config-mode-contact-info-ffgt \
 	gluon-config-mode-geo-location-ffgt \
 	gluon-config-mode-mesh-vpn-ffgt \
 	gluon-config-mode-core \
